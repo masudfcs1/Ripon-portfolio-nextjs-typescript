@@ -19,6 +19,42 @@ npm run dev
 <img width="1778" height="498" alt="image" src="https://github.com/user-attachments/assets/77f54a20-f1a1-41f3-bbb5-ec05af958e46" />
 
 
+# Modern Developer Portfolio
+
+![Portfolio Preview](./public/ripon-3.jpg)
+
+A responsive, high-performance portfolio built with React, Next.js, Tailwind CSS, and TypeScript.
+
+## 🚀 Features
+
+✔ **Modern Stack** – Next.js (App Router), React, Tailwind CSS, TypeScript  
+✔ **Responsive & Accessible** – Works on all devices  
+✔ **Dark/Light Mode** – Toggle between themes  
+✔ **SEO Optimized** – Next.js metadata and dynamic routes  
+✔ **Smooth Animations** – Framer Motion integration  
+✔ **Project Showcase** – Filterable projects with case studies  
+
+## 🛠️ Technologies
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Type Safety**: [TypeScript](https://www.typescriptlang.org/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide Icons](https://lucide.dev/)
+- **Deployment**: [Vercel](https://vercel.com/)
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/masudfcs1/Ripon-portfolio-nextjs-typescript
+cd Ripon-portfolio-nextjs-typescript
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
