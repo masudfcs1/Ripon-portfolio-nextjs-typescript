@@ -21,7 +21,7 @@ npm run dev
 
 # Modern Developer Portfolio
 
-![Portfolio Preview](./public/ripon-3.jpg)
+![Portfolio Preview](./public/ripon-1.jpg)
 
 A responsive, high-performance portfolio built with React, Next.js, Tailwind CSS, and TypeScript.
 
